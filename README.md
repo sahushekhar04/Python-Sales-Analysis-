@@ -11,13 +11,6 @@ This project focuses on analyzing **Diwali Sales Data** to improve customer expe
 - Data Visualization (Charts & Graphs)
 - Product and Region-wise Sales Insights
 
-## 📂 Dataset
-The dataset includes various attributes such as:
-- **Customer Age Group & Gender**
-- **Product Category & Sub-category**
-- **Purchase Amount & Discounts**
-- **City/State-wise Sales**
-- **Time of Purchase (Seasonal Trends)**
 
 ## 🛠️ Technologies Used
 - Python
